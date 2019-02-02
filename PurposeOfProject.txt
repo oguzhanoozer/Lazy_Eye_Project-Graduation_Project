@@ -1,0 +1,9 @@
+This project is our final project in software engineering education. The aim of this project is to help patients with amblyopia.
+ We aimed to address the children by designing this treatment process as a game. The difference between the other applications
+ in the market is the game score  of the patient will be kept in the database  and these scores will be seen by the doctor. 
+This analysis part is web based. The data is historically seen on the chart. The doctor first analyzes the data  by looking 
+at the graph of choosed patients data (which weaknesses in seeing the points) and then enters and records point values to 
+create a new game based on this analysis. Then the person with lazy eye disease can select and play the game created by the 
+doctor in the game menu. In this way, the treatment process is followed and analyzed by the doctor.
+Lazy Eye Project's game part was made using Unity Game Engine and Visual Studio.net  and it's web based part was made using PHP
+and in it's database part , MySQL was used.
